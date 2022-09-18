@@ -1,5 +1,5 @@
 
-//
+//this is the js
 $(document).ready(function() {
 			$('#fullpage').fullpage({
 				'verticalCentered': false,
